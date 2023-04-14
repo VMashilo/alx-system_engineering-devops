@@ -6,4 +6,4 @@ ls -al - Display current directory contents, including hidden files (starting wi
 ls -al - Display current directory contents. long format
 mkdir /tmp/ - Script that creates a directory named my first directory in the /tmp/ directory
 mv betty /tmp/my first directory - moving file to a drirectory
-rm /tmp/my first directory/betty - Delete the file
+rm /tmp/my first directory/ - Delete the file
