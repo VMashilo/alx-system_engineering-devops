@@ -1,2 +1,2 @@
 #!/bin/bas
-ls -al . .. /boot
+#ls -al . .. /boot
