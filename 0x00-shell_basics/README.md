@@ -8,3 +8,10 @@ mkdir /tmp/ - Script that creates a directory named my first directory in the /t
 mv betty /tmp/my first directory - moving file to a drirectory
 rm betty /tmp/my first directory/betty - Delete the file betty
 rmdir -rf - to delete a directory
+rm /tmp/my_first_directory/betty
+rmdir /tmp/my_first_directory/
+ls -al . .. /boot
+file /tmp/iamafile
+ln -s /bin/ls __ls__
+cp -un *.html ../ -
+cd - bring home
