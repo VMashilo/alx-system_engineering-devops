@@ -7,4 +7,4 @@ ls -al - Display current directory contents. long format
 mkdir /tmp/ - Script that creates a directory named my first directory in the /tmp/ directory
 mv betty /tmp/my first directory - moving file to a drirectory
 rm betty /tmp/my first directory/betty - Delete the file betty
-rm -rf - to delete a directory
+rmdir -rf - to delete a directory
