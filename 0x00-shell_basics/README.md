@@ -14,4 +14,4 @@ ls -al . .. /boot
 file /tmp/iamafile
 ln -s /bin/ls __ls__
 cp -un *.html ../ -
-cd - bring home
+cd - - bring me back home
