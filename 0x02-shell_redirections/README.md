@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Best School" > \\\\\\\"'\"Best School\"\\'"\\\\\\$\\\?\\\\\\\\\\\\\\\*\:\)
+Write a shell script that creates a file named exactly
