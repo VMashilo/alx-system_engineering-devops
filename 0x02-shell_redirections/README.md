@@ -1,2 +1,1 @@
-#!/bin/bash
-My readme for 0x02-shell_redirections
+task 1 - Write a script that displays a confused smiley "(Ôo)'
