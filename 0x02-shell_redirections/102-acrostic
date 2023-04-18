@@ -1,2 +1,2 @@
-i#!/bin/bash
-cat -c l | paste -s -d ''
+#!/bin/bash
+cat -c 1 | paste -s -d ''
